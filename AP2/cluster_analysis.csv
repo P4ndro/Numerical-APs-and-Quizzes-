@@ -1,0 +1,10 @@
+Algorithm,Cluster,Size,Sample_Games
+K-means,0,152,Richard & Alice; Bad Pad; Collapse; Eternal Step; The Gardens Between; Time Carnage VR; Bombernauts; Twixel; Evil Bank Manager; Syberia 3
+K-means,1,321,The Journey Down: Chapter One; Magic Wand; HyperParasite; Ripped Pants at Work; Endless Jade Sea -Midori no Umi-; Reignman（掌控者）; Zup! Zero; Samozbor: Rebellion; The Shadowland; Weable
+K-means,2,95,Critical Annihilation; Burst Fighter; Cosmonator; Shaolin vs Wutang; Tallowmere; Depth; Tesla vs Lovecraft; Picross Touch; Cavesweeper; Frantic Dimension
+K-means,3,1,The Secret of Tremendous Corporation
+K-means,4,206,In The Long Run The Game; Hybrid Animals; Crown and Council; Turret Architect; Game Builder; Women's Soccer Manager; Ambition of the Slimes; Marching Simulator; Aurora Dusk: Steam Age; City VR
+DBSCAN,-1,758,Richard & Alice; The Journey Down: Chapter One; In The Long Run The Game; Magic Wand; Critical Annihilation; Hybrid Animals; HyperParasite; Crown and Council; Ripped Pants at Work; Endless Jade Sea -Midori no Umi-
+DBSCAN,0,7,aMAZE Untouchable; Oppai Puzzle; Vampires!; aMAZE Double; aMAZE Classic: Inverted; Oik 5; RPS Runner
+DBSCAN,1,5,Lydia; A Girls Fabric Face; Moral King; Antenna Dilemma; Letzte Worte VR
+DBSCAN,2,5,The Samaritan Paradox; The Underground Man; Oknytt; Mu Complex; Detective Grimoire
