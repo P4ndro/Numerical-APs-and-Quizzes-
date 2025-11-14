@@ -63,6 +63,18 @@ Collection of quiz implementations covering various numerical methods.
 - `task3.py`, `task4.py`, `task5.py`, `task6.py` - Individual tasks
 - `task6_plot.png` - Visualization output
 
+### quiz3 - Numerical Integration
+Numerical integration using Composite Trapezoidal Rule and Composite Simpson's Rule.
+
+**Key Features:**
+- Composite Trapezoidal Rule implementation
+- Composite Simpson's Rule implementation
+- Error computation for n = 1, 2, 4 panels
+- Integration of cos(x) from 0 to π/2 (exact value = 1)
+
+**Files:**
+- `numerical_integration.py` - Main implementation computing approximations and errors
+
 ## 🛠️ Requirements
 
 Each project folder contains its own `requirements.txt` file. To install dependencies for a specific project:
@@ -92,6 +104,13 @@ Navigate to the specific project folder and run the Python scripts:
 ```bash
 cd AP1
 python problem_1_1.py
+```
+
+Or for quiz assignments:
+
+```bash
+cd quiz3
+python numerical_integration.py
 ```
 
 ## 📄 License

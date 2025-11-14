@@ -2,8 +2,8 @@
 
 **Course:** Numerical Methods  
 **Project:** AP4 - Real-World Applications of Voronoi Diagrams  
-**Author:** [Your Name]  
-**Date:** [Date]
+**Author:** Sandro iobidze 
+
 
 ---
 
