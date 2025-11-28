@@ -56,6 +56,25 @@ Voronoi diagram analysis for tornado shelter placement optimization.
 - `demo_no_save.py` - Demo script
 - `report_template.md` - Report template
 
+### AP5 - Spline Approximation Experiments
+Spline-based reconstruction of digit outlines with systematic experiments on spline families, node counts, and node selection strategies.
+
+**Key Features:**
+- Parametric splines for digits (default 2, 3, 8) via SciPy (`CubicSpline`, `make_interp_spline`, `splrep/splev`)
+- Uniform vs. chord-length node sampling at multiple densities
+- RMS and max error metrics plus Matplotlib visualizations saved under `AP5/outputs/`
+
+**Files:**
+- `spline_digits.py` - runs the entire experiment suite and prints error tables
+- `outputs/` - generated plots comparing spline settings for each digit
+
+**Run:**
+```bash
+cd AP5
+python ../.venv/Scripts/python spline_digits.py  # or activate venv first
+```
+Edit the `DIGITS` tuple near the top of the script to try other characters.
+
 ### quiz2 - Assessment Tasks
 Collection of quiz implementations covering various numerical methods.
 
