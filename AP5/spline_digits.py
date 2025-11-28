@@ -15,7 +15,7 @@ OUTPUT_DIR = Path(__file__).parent / "outputs"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 FONT = FontProperties(family="DejaVu Sans")
-DIGITS: Sequence[str] = ("5", "6", "7")
+DIGITS: Sequence[str] = ("2", "3", "8")
 RAW_SAMPLE_POINTS = 24
 REFERENCE_POINTS = 400
 NODE_LEVELS = {
